@@ -17,4 +17,5 @@ section {
     background: burlywood ;
     padding-bottom: 45px;
     padding-top: 45px;
+    display: flex;
 }
