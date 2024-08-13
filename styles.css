@@ -6,7 +6,6 @@ body {
 
 
 
-
 header {
     border-bottom: solid 2px wheat;
     padding:20px;
@@ -16,4 +15,6 @@ header {
 
 section {
     background: burlywood ;
+    padding-bottom: 45px;
+    padding-top: 45px;
 }
