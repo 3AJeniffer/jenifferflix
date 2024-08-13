@@ -5,9 +5,11 @@ body {
 }
 
 
+
+
 header {
-    border-bottom: solid 2px chocolate;
-    padding: 20px;
+    border-bottom: solid 2px wheat;
+    padding:20px;
     font-size: 32px;
-    color: wheat;
+    color: wheat
 }
