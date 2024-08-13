@@ -2,3 +2,11 @@ body {
     color: wheat;
     background: chocolate;
 }
+
+
+header {
+    border-bottom: solid 2px chocolate;
+    padding: 20px;
+    font-size: 32px;
+    color: wheat;
+}
