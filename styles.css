@@ -18,4 +18,11 @@ section {
     padding-bottom: 45px;
     padding-top: 45px;
     display: flex;
+    justify-content: center;
+}
+
+
+div {
+
+    margin-right: 10px;
 }
